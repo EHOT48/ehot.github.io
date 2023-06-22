@@ -1,0 +1,14 @@
+.main {
+    color: green;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul {
+    font-size: medium;
+    color: blue;
+}
+p {
+    color: brown;
+}
+#level-2{
+    color: aqua;
+}
